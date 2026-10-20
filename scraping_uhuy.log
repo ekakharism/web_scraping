@@ -1,0 +1,247 @@
+2026-10-21 06:10:26,520 | INFO | Mengambil buku halaman 1. Total 20 buku
+2026-10-21 06:10:28,196 | INFO | Mengambil buku halaman 2. Total 40 buku
+2026-10-21 06:10:29,720 | INFO | Mengambil buku halaman 3. Total 60 buku
+2026-10-21 06:10:31,261 | INFO | Mengambil buku halaman 4. Total 80 buku
+2026-10-21 06:10:32,908 | INFO | Mengambil buku halaman 5. Total 100 buku
+2026-10-21 06:10:34,531 | INFO | Mengambil buku halaman 6. Total 120 buku
+2026-10-21 06:10:36,067 | INFO | Mengambil buku halaman 7. Total 140 buku
+2026-10-21 06:10:37,612 | INFO | Mengambil buku halaman 8. Total 160 buku
+2026-10-21 06:10:39,257 | INFO | Mengambil buku halaman 9. Total 180 buku
+2026-10-21 06:10:40,911 | INFO | Mengambil buku halaman 10. Total 200 buku
+2026-10-21 06:10:42,537 | INFO | Mengambil buku halaman 11. Total 220 buku
+2026-10-21 06:10:44,171 | INFO | Mengambil buku halaman 12. Total 240 buku
+2026-10-21 06:10:45,976 | INFO | Mengambil buku halaman 13. Total 260 buku
+2026-10-21 06:10:47,458 | INFO | Mengambil buku halaman 14. Total 280 buku
+2026-10-21 06:10:49,097 | INFO | Mengambil buku halaman 15. Total 300 buku
+2026-10-21 06:10:50,717 | INFO | Mengambil buku halaman 16. Total 320 buku
+2026-10-21 06:10:52,254 | INFO | Mengambil buku halaman 17. Total 340 buku
+2026-10-21 06:10:53,790 | INFO | Mengambil buku halaman 18. Total 360 buku
+2026-10-21 06:10:55,340 | INFO | Mengambil buku halaman 19. Total 380 buku
+2026-10-21 06:10:56,967 | INFO | Mengambil buku halaman 20. Total 400 buku
+2026-10-21 06:10:58,678 | INFO | Mengambil buku halaman 21. Total 420 buku
+2026-10-21 06:11:00,256 | INFO | Mengambil buku halaman 22. Total 440 buku
+2026-10-21 06:11:02,191 | INFO | Mengambil buku halaman 23. Total 460 buku
+2026-10-21 06:11:03,729 | INFO | Mengambil buku halaman 24. Total 480 buku
+2026-10-21 06:11:05,264 | INFO | Mengambil buku halaman 25. Total 500 buku
+2026-10-21 06:11:06,917 | INFO | Mengambil buku halaman 26. Total 520 buku
+2026-10-21 06:11:08,554 | INFO | Mengambil buku halaman 27. Total 540 buku
+2026-10-21 06:11:10,187 | INFO | Mengambil buku halaman 28. Total 560 buku
+2026-10-21 06:11:11,848 | INFO | Mengambil buku halaman 29. Total 580 buku
+2026-10-21 06:11:13,461 | INFO | Mengambil buku halaman 30. Total 600 buku
+2026-10-21 06:11:14,994 | INFO | Mengambil buku halaman 31. Total 620 buku
+2026-10-21 06:11:16,618 | INFO | Mengambil buku halaman 32. Total 640 buku
+2026-10-21 06:11:18,270 | INFO | Mengambil buku halaman 33. Total 660 buku
+2026-10-21 06:11:19,910 | INFO | Mengambil buku halaman 34. Total 680 buku
+2026-10-21 06:11:21,508 | INFO | Mengambil buku halaman 35. Total 700 buku
+2026-10-21 06:11:23,184 | INFO | Mengambil buku halaman 36. Total 720 buku
+2026-10-21 06:11:24,747 | INFO | Mengambil buku halaman 37. Total 740 buku
+2026-10-21 06:11:26,397 | INFO | Mengambil buku halaman 38. Total 760 buku
+2026-10-21 06:11:27,995 | INFO | Mengambil buku halaman 39. Total 780 buku
+2026-10-21 06:11:29,636 | INFO | Mengambil buku halaman 40. Total 800 buku
+2026-10-21 06:11:31,279 | INFO | Mengambil buku halaman 41. Total 820 buku
+2026-10-21 06:11:32,808 | INFO | Mengambil buku halaman 42. Total 840 buku
+2026-10-21 06:11:34,341 | INFO | Mengambil buku halaman 43. Total 860 buku
+2026-10-21 06:11:35,896 | INFO | Mengambil buku halaman 44. Total 880 buku
+2026-10-21 06:11:37,521 | INFO | Mengambil buku halaman 45. Total 900 buku
+2026-10-21 06:11:39,157 | INFO | Mengambil buku halaman 46. Total 920 buku
+2026-10-21 06:11:40,794 | INFO | Mengambil buku halaman 47. Total 940 buku
+2026-10-21 06:11:42,323 | INFO | Mengambil buku halaman 48. Total 960 buku
+2026-10-21 06:11:43,908 | INFO | Mengambil buku halaman 49. Total 980 buku
+2026-10-21 06:11:45,510 | INFO | Mengambil buku halaman 50. Total 1000 buku
+2026-10-21 06:11:45,511 | INFO | Semua buku telah di Scraping. Total : 1000
+2026-10-21 06:22:11,906 | INFO | Selesai halaman 1. Total 20 buku
+2026-10-21 06:22:41,391 | INFO | Selesai halaman 1. Total 20 buku
+2026-10-21 06:23:03,007 | INFO | Selesai halaman 1. Total 20 buku
+2026-10-21 06:23:05,151 | INFO | Selesai halaman 2. Total 40 buku
+2026-10-21 06:23:07,295 | INFO | Selesai halaman 3. Total 60 buku
+2026-10-21 06:23:09,547 | INFO | Selesai halaman 4. Total 80 buku
+2026-10-21 06:23:11,714 | INFO | Selesai halaman 5. Total 100 buku
+2026-10-21 06:23:13,867 | INFO | Selesai halaman 6. Total 120 buku
+2026-10-21 06:23:16,106 | INFO | Selesai halaman 7. Total 140 buku
+2026-10-21 06:23:18,249 | INFO | Selesai halaman 8. Total 160 buku
+2026-10-21 06:23:20,415 | INFO | Selesai halaman 9. Total 180 buku
+2026-10-21 06:23:22,557 | INFO | Selesai halaman 10. Total 200 buku
+2026-10-21 06:23:24,712 | INFO | Selesai halaman 11. Total 220 buku
+2026-10-21 06:23:27,167 | INFO | Selesai halaman 12. Total 240 buku
+2026-10-21 06:23:29,322 | INFO | Selesai halaman 13. Total 260 buku
+2026-10-21 06:23:31,465 | INFO | Selesai halaman 14. Total 280 buku
+2026-10-21 06:23:33,619 | INFO | Selesai halaman 15. Total 300 buku
+2026-10-21 06:23:35,783 | INFO | Selesai halaman 16. Total 320 buku
+2026-10-21 06:23:37,925 | INFO | Selesai halaman 17. Total 340 buku
+2026-10-21 06:23:40,098 | INFO | Selesai halaman 18. Total 360 buku
+2026-10-21 06:23:42,227 | INFO | Selesai halaman 19. Total 380 buku
+2026-10-21 06:23:44,227 | INFO | Selesai halaman 20. Total 400 buku
+2026-10-21 06:23:46,326 | INFO | Selesai halaman 21. Total 420 buku
+2026-10-21 06:23:48,458 | INFO | Selesai halaman 22. Total 440 buku
+2026-10-21 06:23:50,496 | INFO | Selesai halaman 23. Total 460 buku
+2026-10-21 06:23:52,617 | INFO | Selesai halaman 24. Total 480 buku
+2026-10-21 06:23:54,714 | INFO | Selesai halaman 25. Total 500 buku
+2026-10-21 06:23:56,889 | INFO | Selesai halaman 26. Total 520 buku
+2026-10-21 06:23:58,950 | INFO | Selesai halaman 27. Total 540 buku
+2026-10-21 06:24:01,169 | INFO | Selesai halaman 28. Total 560 buku
+2026-10-21 06:24:03,321 | INFO | Selesai halaman 29. Total 580 buku
+2026-10-21 06:24:05,466 | INFO | Selesai halaman 30. Total 600 buku
+2026-10-21 06:24:07,616 | INFO | Selesai halaman 31. Total 620 buku
+2026-10-21 06:24:09,764 | INFO | Selesai halaman 32. Total 640 buku
+2026-10-21 06:24:11,920 | INFO | Selesai halaman 33. Total 660 buku
+2026-10-21 06:24:14,169 | INFO | Selesai halaman 34. Total 680 buku
+2026-10-21 06:24:16,476 | INFO | Selesai halaman 35. Total 700 buku
+2026-10-21 06:24:18,688 | INFO | Selesai halaman 36. Total 720 buku
+2026-10-21 06:24:20,824 | INFO | Selesai halaman 37. Total 740 buku
+2026-10-21 06:24:23,080 | INFO | Selesai halaman 38. Total 760 buku
+2026-10-21 06:24:25,308 | INFO | Selesai halaman 39. Total 780 buku
+2026-10-21 06:24:27,628 | INFO | Selesai halaman 40. Total 800 buku
+2026-10-21 06:24:29,731 | INFO | Selesai halaman 41. Total 820 buku
+2026-10-21 06:24:31,893 | INFO | Selesai halaman 42. Total 840 buku
+2026-10-21 06:24:34,031 | INFO | Selesai halaman 43. Total 860 buku
+2026-10-21 06:24:36,185 | INFO | Selesai halaman 44. Total 880 buku
+2026-10-21 06:24:38,439 | INFO | Selesai halaman 45. Total 900 buku
+2026-10-21 06:24:40,579 | INFO | Selesai halaman 46. Total 920 buku
+2026-10-21 06:24:43,150 | INFO | Selesai halaman 47. Total 940 buku
+2026-10-21 06:24:45,185 | INFO | Selesai halaman 48. Total 960 buku
+2026-10-21 06:24:47,480 | INFO | Selesai halaman 49. Total 980 buku
+2026-10-21 06:24:49,552 | INFO | Selesai halaman 50. Total 1000 buku
+2026-10-21 06:24:50,053 | INFO | Semua buku telah di Scraping. Total : 1000
+2026-10-21 06:25:22,279 | __main__ | INFO | Selesai halaman 1. Total 20 buku
+2026-10-21 06:25:24,313 | __main__ | INFO | Selesai halaman 2. Total 40 buku
+2026-10-21 06:25:26,370 | __main__ | INFO | Selesai halaman 3. Total 60 buku
+2026-10-21 06:25:28,527 | __main__ | INFO | Selesai halaman 4. Total 80 buku
+2026-10-21 06:25:30,761 | __main__ | INFO | Selesai halaman 5. Total 100 buku
+2026-10-21 06:25:32,925 | __main__ | INFO | Selesai halaman 6. Total 120 buku
+2026-10-21 06:25:35,068 | __main__ | INFO | Selesai halaman 7. Total 140 buku
+2026-10-21 06:25:37,256 | __main__ | INFO | Selesai halaman 8. Total 160 buku
+2026-10-21 06:25:39,369 | __main__ | INFO | Selesai halaman 9. Total 180 buku
+2026-10-21 06:25:41,628 | __main__ | INFO | Selesai halaman 10. Total 200 buku
+2026-10-21 06:25:43,973 | __main__ | INFO | Selesai halaman 11. Total 220 buku
+2026-10-21 06:25:46,323 | __main__ | INFO | Selesai halaman 12. Total 240 buku
+2026-10-21 06:25:48,482 | __main__ | INFO | Selesai halaman 13. Total 260 buku
+2026-10-21 06:25:50,625 | __main__ | INFO | Selesai halaman 14. Total 280 buku
+2026-10-21 06:25:52,784 | __main__ | INFO | Selesai halaman 15. Total 300 buku
+2026-10-21 06:25:54,949 | __main__ | INFO | Selesai halaman 16. Total 320 buku
+2026-10-21 06:25:57,082 | __main__ | INFO | Selesai halaman 17. Total 340 buku
+2026-10-21 06:25:59,184 | __main__ | INFO | Selesai halaman 18. Total 360 buku
+2026-10-21 06:26:01,287 | __main__ | INFO | Selesai halaman 19. Total 380 buku
+2026-10-21 06:26:03,535 | __main__ | INFO | Selesai halaman 20. Total 400 buku
+2026-10-21 06:26:05,648 | __main__ | INFO | Selesai halaman 21. Total 420 buku
+2026-10-21 06:26:07,835 | __main__ | INFO | Selesai halaman 22. Total 440 buku
+2026-10-21 06:26:09,944 | __main__ | INFO | Selesai halaman 23. Total 460 buku
+2026-10-21 06:26:12,036 | __main__ | INFO | Selesai halaman 24. Total 480 buku
+2026-10-21 06:26:14,562 | __main__ | INFO | Selesai halaman 25. Total 500 buku
+2026-10-21 06:26:16,656 | __main__ | INFO | Selesai halaman 26. Total 520 buku
+2026-10-21 06:26:18,795 | __main__ | INFO | Selesai halaman 27. Total 540 buku
+2026-10-21 06:26:20,944 | __main__ | INFO | Selesai halaman 28. Total 560 buku
+2026-10-21 06:26:23,093 | __main__ | INFO | Selesai halaman 29. Total 580 buku
+2026-10-21 06:26:25,247 | __main__ | INFO | Selesai halaman 30. Total 600 buku
+2026-10-21 06:26:27,394 | __main__ | INFO | Selesai halaman 31. Total 620 buku
+2026-10-21 06:26:29,541 | __main__ | INFO | Selesai halaman 32. Total 640 buku
+2026-10-21 06:26:31,697 | __main__ | INFO | Selesai halaman 33. Total 660 buku
+2026-10-21 06:26:33,813 | __main__ | INFO | Selesai halaman 34. Total 680 buku
+2026-10-21 06:26:35,893 | __main__ | INFO | Selesai halaman 35. Total 700 buku
+2026-10-21 06:26:38,043 | __main__ | INFO | Selesai halaman 36. Total 720 buku
+2026-10-21 06:26:40,199 | __main__ | INFO | Selesai halaman 37. Total 740 buku
+2026-10-21 06:26:42,349 | __main__ | INFO | Selesai halaman 38. Total 760 buku
+2026-10-21 06:26:44,484 | __main__ | INFO | Selesai halaman 39. Total 780 buku
+2026-10-21 06:26:46,654 | __main__ | INFO | Selesai halaman 40. Total 800 buku
+2026-10-21 06:26:48,666 | __main__ | INFO | Selesai halaman 41. Total 820 buku
+2026-10-21 06:27:00,584 | __main__ | INFO | Selesai halaman 1. Total 20 buku
+2026-10-21 06:27:02,681 | __main__ | INFO | Selesai halaman 2. Total 40 buku
+2026-10-21 06:27:04,779 | __main__ | INFO | Selesai halaman 3. Total 60 buku
+2026-10-21 06:27:06,938 | __main__ | INFO | Selesai halaman 4. Total 80 buku
+2026-10-21 06:27:09,074 | __main__ | INFO | Selesai halaman 5. Total 100 buku
+2026-10-21 06:27:11,220 | __main__ | INFO | Selesai halaman 6. Total 120 buku
+2026-10-21 06:27:13,478 | __main__ | INFO | Selesai halaman 7. Total 140 buku
+2026-10-21 06:27:15,672 | __main__ | INFO | Selesai halaman 8. Total 160 buku
+2026-10-21 06:27:17,687 | __main__ | INFO | Selesai halaman 9. Total 180 buku
+2026-10-21 06:27:19,798 | __main__ | INFO | Selesai halaman 10. Total 200 buku
+2026-10-21 06:27:21,869 | __main__ | INFO | Selesai halaman 11. Total 220 buku
+2026-10-21 06:27:23,917 | __main__ | INFO | Selesai halaman 12. Total 240 buku
+2026-10-21 06:27:26,037 | __main__ | INFO | Selesai halaman 13. Total 260 buku
+2026-10-21 06:27:28,120 | __main__ | INFO | Selesai halaman 14. Total 280 buku
+2026-10-21 06:27:30,270 | __main__ | INFO | Selesai halaman 15. Total 300 buku
+2026-10-21 06:27:32,541 | __main__ | INFO | Selesai halaman 16. Total 320 buku
+2026-10-21 06:27:34,834 | __main__ | INFO | Selesai halaman 17. Total 340 buku
+2026-10-21 06:27:37,536 | __main__ | INFO | Selesai halaman 18. Total 360 buku
+2026-10-21 06:27:39,891 | __main__ | INFO | Selesai halaman 19. Total 380 buku
+2026-10-21 06:27:42,044 | __main__ | INFO | Selesai halaman 20. Total 400 buku
+2026-10-21 06:27:44,325 | __main__ | INFO | Selesai halaman 21. Total 420 buku
+2026-10-21 06:27:46,450 | __main__ | INFO | Selesai halaman 22. Total 440 buku
+2026-10-21 06:27:48,595 | __main__ | INFO | Selesai halaman 23. Total 460 buku
+2026-10-21 06:27:50,748 | __main__ | INFO | Selesai halaman 24. Total 480 buku
+2026-10-21 06:27:52,914 | __main__ | INFO | Selesai halaman 25. Total 500 buku
+2026-10-21 06:27:55,054 | __main__ | INFO | Selesai halaman 26. Total 520 buku
+2026-10-21 06:27:57,196 | __main__ | INFO | Selesai halaman 27. Total 540 buku
+2026-10-21 06:27:59,308 | __main__ | INFO | Selesai halaman 28. Total 560 buku
+2026-10-21 06:28:01,486 | __main__ | INFO | Selesai halaman 29. Total 580 buku
+2026-10-21 06:28:03,870 | __main__ | INFO | Selesai halaman 30. Total 600 buku
+2026-10-21 06:28:06,112 | __main__ | INFO | Selesai halaman 31. Total 620 buku
+2026-10-21 06:28:08,356 | __main__ | INFO | Selesai halaman 32. Total 640 buku
+2026-10-21 06:28:10,514 | __main__ | INFO | Selesai halaman 33. Total 660 buku
+2026-10-21 06:28:12,563 | __main__ | INFO | Selesai halaman 34. Total 680 buku
+2026-10-21 06:28:14,713 | __main__ | INFO | Selesai halaman 35. Total 700 buku
+2026-10-21 06:28:16,832 | __main__ | INFO | Selesai halaman 36. Total 720 buku
+2026-10-21 06:28:18,910 | __main__ | INFO | Selesai halaman 37. Total 740 buku
+2026-10-21 06:28:21,062 | __main__ | INFO | Selesai halaman 38. Total 760 buku
+2026-10-21 06:28:23,211 | __main__ | INFO | Selesai halaman 39. Total 780 buku
+2026-10-21 06:28:25,362 | __main__ | INFO | Selesai halaman 40. Total 800 buku
+2026-10-21 06:28:27,511 | __main__ | INFO | Selesai halaman 41. Total 820 buku
+2026-10-21 06:28:29,661 | __main__ | INFO | Selesai halaman 42. Total 840 buku
+2026-10-21 06:28:31,808 | __main__ | INFO | Selesai halaman 43. Total 860 buku
+2026-10-21 06:28:33,961 | __main__ | INFO | Selesai halaman 44. Total 880 buku
+2026-10-21 06:28:36,264 | __main__ | INFO | Selesai halaman 45. Total 900 buku
+2026-10-21 06:28:38,317 | __main__ | INFO | Selesai halaman 46. Total 920 buku
+2026-10-21 06:28:40,409 | __main__ | INFO | Selesai halaman 47. Total 940 buku
+2026-10-21 06:28:42,629 | __main__ | INFO | Selesai halaman 48. Total 960 buku
+2026-10-21 06:28:44,713 | __main__ | INFO | Selesai halaman 49. Total 980 buku
+2026-10-21 06:28:46,857 | __main__ | INFO | Selesai halaman 50. Total 1000 buku
+2026-10-21 06:28:47,359 | __main__ | INFO | Semua buku telah di Scraping. Total : 1000
+2026-10-21 06:30:52,525 | book_scraper | INFO | Selesai halaman 1. Total 20 buku
+2026-10-21 06:30:54,769 | book_scraper | INFO | Selesai halaman 2. Total 40 buku
+2026-10-21 06:30:56,916 | book_scraper | INFO | Selesai halaman 3. Total 60 buku
+2026-10-21 06:30:59,069 | book_scraper | INFO | Selesai halaman 4. Total 80 buku
+2026-10-21 06:31:01,263 | book_scraper | INFO | Selesai halaman 5. Total 100 buku
+2026-10-21 06:31:03,473 | book_scraper | INFO | Selesai halaman 6. Total 120 buku
+2026-10-21 06:31:05,621 | book_scraper | INFO | Selesai halaman 7. Total 140 buku
+2026-10-21 06:31:07,868 | book_scraper | INFO | Selesai halaman 8. Total 160 buku
+2026-10-21 06:31:10,004 | book_scraper | INFO | Selesai halaman 9. Total 180 buku
+2026-10-21 06:31:12,170 | book_scraper | INFO | Selesai halaman 10. Total 200 buku
+2026-10-21 06:31:14,317 | book_scraper | INFO | Selesai halaman 11. Total 220 buku
+2026-10-21 06:31:16,472 | book_scraper | INFO | Selesai halaman 12. Total 240 buku
+2026-10-21 06:31:18,623 | book_scraper | INFO | Selesai halaman 13. Total 260 buku
+2026-10-21 06:31:20,873 | book_scraper | INFO | Selesai halaman 14. Total 280 buku
+2026-10-21 06:31:23,074 | book_scraper | INFO | Selesai halaman 15. Total 300 buku
+2026-10-21 06:31:25,280 | book_scraper | INFO | Selesai halaman 16. Total 320 buku
+2026-10-21 06:31:27,433 | book_scraper | INFO | Selesai halaman 17. Total 340 buku
+2026-10-21 06:31:29,602 | book_scraper | INFO | Selesai halaman 18. Total 360 buku
+2026-10-21 06:31:31,734 | book_scraper | INFO | Selesai halaman 19. Total 380 buku
+2026-10-21 06:31:33,880 | book_scraper | INFO | Selesai halaman 20. Total 400 buku
+2026-10-21 06:31:36,027 | book_scraper | INFO | Selesai halaman 21. Total 420 buku
+2026-10-21 06:31:38,193 | book_scraper | INFO | Selesai halaman 22. Total 440 buku
+2026-10-21 06:31:40,343 | book_scraper | INFO | Selesai halaman 23. Total 460 buku
+2026-10-21 06:31:42,549 | book_scraper | INFO | Selesai halaman 24. Total 480 buku
+2026-10-21 06:31:44,971 | book_scraper | INFO | Selesai halaman 25. Total 500 buku
+2026-10-21 06:31:47,110 | book_scraper | INFO | Selesai halaman 26. Total 520 buku
+2026-10-21 06:31:49,186 | book_scraper | INFO | Selesai halaman 27. Total 540 buku
+2026-10-21 06:31:51,309 | book_scraper | INFO | Selesai halaman 28. Total 560 buku
+2026-10-21 06:31:53,438 | book_scraper | INFO | Selesai halaman 29. Total 580 buku
+2026-10-21 06:31:55,598 | book_scraper | INFO | Selesai halaman 30. Total 600 buku
+2026-10-21 06:31:57,690 | book_scraper | INFO | Selesai halaman 31. Total 620 buku
+2026-10-21 06:31:59,810 | book_scraper | INFO | Selesai halaman 32. Total 640 buku
+2026-10-21 06:32:02,082 | book_scraper | INFO | Selesai halaman 33. Total 660 buku
+2026-10-21 06:32:04,208 | book_scraper | INFO | Selesai halaman 34. Total 680 buku
+2026-10-21 06:32:06,311 | book_scraper | INFO | Selesai halaman 35. Total 700 buku
+2026-10-21 06:32:08,577 | book_scraper | INFO | Selesai halaman 36. Total 720 buku
+2026-10-21 06:32:10,654 | book_scraper | INFO | Selesai halaman 37. Total 740 buku
+2026-10-21 06:32:12,790 | book_scraper | INFO | Selesai halaman 38. Total 760 buku
+2026-10-21 06:32:14,931 | book_scraper | INFO | Selesai halaman 39. Total 780 buku
+2026-10-21 06:32:16,994 | book_scraper | INFO | Selesai halaman 40. Total 800 buku
+2026-10-21 06:32:19,134 | book_scraper | INFO | Selesai halaman 41. Total 820 buku
+2026-10-21 06:32:21,286 | book_scraper | INFO | Selesai halaman 42. Total 840 buku
+2026-10-21 06:32:23,439 | book_scraper | INFO | Selesai halaman 43. Total 860 buku
+2026-10-21 06:32:25,603 | book_scraper | INFO | Selesai halaman 44. Total 880 buku
+2026-10-21 06:32:27,786 | book_scraper | INFO | Selesai halaman 45. Total 900 buku
+2026-10-21 06:32:30,010 | book_scraper | INFO | Selesai halaman 46. Total 920 buku
+2026-10-21 06:32:32,142 | book_scraper | INFO | Selesai halaman 47. Total 940 buku
+2026-10-21 06:32:34,293 | book_scraper | INFO | Selesai halaman 48. Total 960 buku
+2026-10-21 06:32:36,405 | book_scraper | INFO | Selesai halaman 49. Total 980 buku
+2026-10-21 06:32:38,484 | book_scraper | INFO | Selesai halaman 50. Total 1000 buku
+2026-10-21 06:32:38,985 | book_scraper | INFO | Semua buku telah di Scraping. Total : 1000
